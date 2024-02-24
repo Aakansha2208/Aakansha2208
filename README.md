@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakansha Makhija</h1>
 <h3 align="center">Aspiring full stack developer, MCA student at VIPS, eager learner.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakansha2208" alt="aakansha2208" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/aakanshamakhija" target="blank"><img src="https://img.shields.io/twitter/follow/aakanshamakhija?logo=twitter&style=for-the-badge" alt="aakanshamakhija" /></a> </p>
 
 - 🌱 I’m currently learning **Full-Stack Development**
